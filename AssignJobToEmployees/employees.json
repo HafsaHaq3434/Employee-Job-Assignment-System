@@ -1,0 +1,303 @@
+[
+        {
+            "Name": "Jima Perez",
+            "Phone": "0654558089",
+            "Email": "jima.perez@skillfuel.nl",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Size", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 4,
+            "Location": {
+            "Country": "NL",
+            "City": "AMS"
+            }
+        },
+        {
+            "Name": "Matthew Remm",
+            "Phone": "0658391233",
+            "Email": "m.remm@kidzcode.nl",
+            "Soft Skills": ["Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["Python", "Excel", "Java", "C++", "C#"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Small", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 2,
+            "Location": {
+            "Country": "NL",
+            "City": "DELFT"
+            }
+        },
+        {
+            "Name": "Evan Ghisly",
+            "Phone": "0678923488",
+            "Email": "evan.ghisly@gmail.com",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel", "Java", "C++", "C#", "Jupyter Notebook"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Start up", "Pension plan"],
+            "Salary Aim": 5000,
+            "Years of experience": 8,
+            "Location": {
+            "Country": "USA",
+            "City": "New York"
+            }
+        },
+        {
+            "Name": "Asheev Lenon",
+            "Phone": "0684763766",
+            "Email": "asheev.lenon@yahoo.com",
+            "Soft Skills": ["Team work", "Presentation"],
+            "Hard Skills": ["R", "Excel"],
+            "Job Preference": ["Hardware", "Onsite working"],
+            "Company Preference": ["Enterprise", "Internal Academy"],
+            "Salary Aim": 2000,
+            "Years of experience": 0,
+            "Location": {
+            "Country": "USA",
+            "City": "San Fransisco"
+            }
+        },
+        {
+            "Name": "Charlie Edmundsen",
+            "Phone": "0678973622",
+            "Email": "charlie.edmundsen@hotmail.com",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel", "Jupyter Notebook"],
+            "Job Preference": ["Software", "Mentoring", "Remote working", "Education"],
+            "Company Preference": ["Start up", "Pension plan", "Daycare"],
+            "Salary Aim": 4000,
+            "Years of experience": 5,
+            "Location": {
+            "Country": "USA",
+            "City": "New York"
+            }
+        },
+        {
+            "Name": "Emmett Kenton",
+            "Phone": "0683774855",
+            "Email": "emk@gmail.com",
+            "Soft Skills": ["Marketing", "Team work", "Presentation"],
+            "Hard Skills": ["R", "Excel"],
+            "Job Preference": ["Onsite working", "Education"],
+            "Company Preference": ["Enterprise", "Internal training"],
+            "Salary Aim": 2500,
+            "Years of experience": 2,
+            "Location": {
+            "Country": "USA",
+            "City": "Boston"
+            }
+        },
+        {
+            "Name": "Ann Lilde",
+            "Phone": "0672018288",
+            "Email": "ann.lilde@psytrainers.nl",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Software", "Onsite", "Education plan"],
+            "Company Preference": ["Start up", "Pension plan"],
+            "Salary Aim": 3500,
+            "Years of experience": 1,
+            "Location": {
+            "Country": "USA",
+            "City": "Connecticut"
+            }
+        },
+        {
+            "Name": "Igone Maschaft",
+            "Phone": "0626373288",
+            "Email": "ig.mas@leidenuniv.nl",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Enterprise", "Pension plan", "Daycare"],
+            "Salary Aim": 5500,
+            "Years of experience": 8,
+            "Location": {
+            "Country": "NL",
+            "City": "Maastricht"
+            }
+        },
+        {
+            "Name": "Tasha Fienne",
+            "Phone": "0683921244",
+            "Email": "tasha.fienne@meritude.nl",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Mentoring"],
+            "Hard Skills": ["C#", "Python", "C++"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Enterprise", "Pension plan"],
+            "Salary Aim": 3800,
+            "Years of experience": 4,
+            "Location": {
+            "Country": "USA",
+            "City": "Chicago"
+            }
+        },
+        {
+            "Name": "Holly Mink",
+            "Phone": "0639201122",
+            "Email": "hm@skillfuel.nl",
+            "Soft Skills": [ "Presentation"],
+            "Hard Skills": ["Excel"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Size", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 4,
+            "Location": {
+            "Country": "USA",
+            "City": "Detroit"
+            }
+        },
+        {
+            "Name": "Gerard Huffington",
+            "Phone": "0671899881",
+            "Email": "gerard.huffington@telegraph.com",
+            "Soft Skills": ["Marketing", "Team work", "Presentation"],
+            "Hard Skills": ["R", "Excel"],
+            "Job Preference": ["Hardware", "Remote working"],
+            "Company Preference": ["Enterprise", "Pension plan"],
+            "Salary Aim": 3700,
+            "Years of experience": 2,
+            "Location": {
+            "Country": "USA",
+            "City": "Massachussets"
+            }
+        },
+        {
+            "Name": "Bob Sietes",
+            "Phone": "0698373211",
+            "Email": "bobsietes@hotmail.nl",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "C#"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Start up", "Pension plan"],
+            "Salary Aim": 4200,
+            "Years of experience": 6,
+            "Location": {
+            "Country": "NL",
+            "City": "Utrecht"
+            }
+        },
+        {
+            "Name": "Timothy Holland",
+            "Phone": "0638291822",
+            "Email": "timothy.holland@att.com",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Enterprise", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 3,
+            "Location": {
+            "Country": "USA",
+            "City": "Charlottesville"
+            }
+        },
+        {
+            "Name": "Heather Logleather",
+            "Phone": "0612842388",
+            "Email": "heather.logleather@complacement.com",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Start up", "Internal training"],
+            "Salary Aim": 2800,
+            "Years of experience": 4,
+            "Location": {
+            "Country": "USA",
+            "City": "Seattle"
+            }
+        },
+        {
+            "Name": "Frida Schangenheim",
+            "Phone": "0638299182",
+            "Email": "frida.schangenheim@gmbhdeutsch.de",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Size", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 4,
+            "Location": {
+            "Country": "NL",
+            "City": "Twente"
+            }
+        },
+        {
+            "Name": "Ali Mahim",
+            "Phone": "0639901122",
+            "Email": "ali.mahim@skillfuel.nl",
+            "Soft Skills": ["Teaching", "Presentation", "Mentoring"],
+            "Hard Skills": ["Python", "Excel"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Enterprise", "Pension plan"],
+            "Salary Aim": 4500,
+            "Years of experience": 6,
+            "Location": {
+            "Country": "USA",
+            "City": "Philadelphia"
+            }
+        },
+        {
+            "Name": "Lonzo Torres",
+            "Phone": "0653243229",
+            "Email": "lonzo.torres@starbucks.com",
+            "Soft Skills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "Hard Skills": ["Excel"],
+            "Job Preference": ["Software", "Remote working", "Education"],
+            "Company Preference": ["Size", "Pension plan"],
+            "Salary Aim": 2900,
+            "Years of experience": 2,
+            "Location": {
+            "Country": "USA",
+            "City": "Los Angeles"
+            }
+        },
+        {
+            "Name": "Gaston Logan",
+            "Phone": "0623492355",
+            "Email": "gaston.logan@brighton.com",
+            "Soft Skills": ["Marketing", "Presentation"],
+            "Hard Skills": ["R", "Python", "Excel"],
+            "Job Preference": ["Hardware", "Remote working", "Education"],
+            "Company Preference": ["Size", "Pension plan"],
+            "Salary Aim": 3000,
+            "Years of experience": 3,
+            "Location": {
+            "Country": "USA",
+            "City": "Miami"
+            }
+        },
+        {
+            "Name": "Ted Sunda",
+            "Phone": "0638299188",
+            "Email": "ted.sunda@hema.nl",
+            "Soft Skills": ["Teaching", "Presentation"],
+            "Hard Skills": ["R", "Excel"],
+            "Job Preference": ["Remote working", "Education"],
+            "Company Preference": ["Start up", "Pension plan"],
+            "Salary Aim": 3400,
+            "Years of experience": 2,
+            "Location": {
+            "Country": "NL",
+            "City": "Den Haag"
+            }
+        },
+        {
+            "Name": "Freddie Sale",
+            "Phone": "0682763533",
+            "Email": "freddie.sale@nosstra.gr",
+            "Soft Skills": ["Marketing", "Team work"],
+            "Hard Skills": ["R", "Excel"],
+            "Job Preference": ["Remote working"],
+            "Company Preference": ["Enterprise", "Pension plan"],
+            "Salary Aim": 4200,
+            "Years of experience": 7,
+            "Location": {
+            "Country": "USA",
+            "City": "Denver"
+            }
+        }
+]
+
